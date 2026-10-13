@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix 999 787-AI-update OfflinePOSR",
+  "description": "Imported from GitHub: winsoemoung/OfflinePOS",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
